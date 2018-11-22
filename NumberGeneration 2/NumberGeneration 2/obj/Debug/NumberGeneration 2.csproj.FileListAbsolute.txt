@@ -1,0 +1,13 @@
+F:\1Cab 201\NumberGeneration 2\NumberGeneration 2\bin\Debug\NumberGeneration 2.exe.config
+F:\1Cab 201\NumberGeneration 2\NumberGeneration 2\bin\Debug\NumberGeneration 2.exe
+F:\1Cab 201\NumberGeneration 2\NumberGeneration 2\bin\Debug\NumberGeneration 2.pdb
+F:\1Cab 201\NumberGeneration 2\NumberGeneration 2\obj\Debug\NumberGeneration 2.csprojResolveAssemblyReference.cache
+F:\1Cab 201\NumberGeneration 2\NumberGeneration 2\obj\Debug\NumberGeneration 2.exe
+F:\1Cab 201\NumberGeneration 2\NumberGeneration 2\obj\Debug\NumberGeneration 2.pdb
+G:\2017 sem 1\1Cab 201\NumberGeneration 2\NumberGeneration 2\bin\Debug\NumberGeneration 2.exe.config
+G:\2017 sem 1\1Cab 201\NumberGeneration 2\NumberGeneration 2\bin\Debug\NumberGeneration 2.exe
+G:\2017 sem 1\1Cab 201\NumberGeneration 2\NumberGeneration 2\bin\Debug\NumberGeneration 2.pdb
+G:\2017 sem 1\1Cab 201\NumberGeneration 2\NumberGeneration 2\obj\Debug\NumberGeneration 2.csprojResolveAssemblyReference.cache
+G:\2017 sem 1\1Cab 201\NumberGeneration 2\NumberGeneration 2\obj\Debug\NumberGeneration 2.csproj.CoreCompileInputs.cache
+G:\2017 sem 1\1Cab 201\NumberGeneration 2\NumberGeneration 2\obj\Debug\NumberGeneration 2.exe
+G:\2017 sem 1\1Cab 201\NumberGeneration 2\NumberGeneration 2\obj\Debug\NumberGeneration 2.pdb

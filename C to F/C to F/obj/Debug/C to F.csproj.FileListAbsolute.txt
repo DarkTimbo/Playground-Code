@@ -1,0 +1,13 @@
+D:\1Cab 201\C to F\C to F\bin\Debug\C to F.exe.config
+D:\1Cab 201\C to F\C to F\bin\Debug\C to F.exe
+D:\1Cab 201\C to F\C to F\bin\Debug\C to F.pdb
+D:\1Cab 201\C to F\C to F\obj\Debug\C to F.csprojResolveAssemblyReference.cache
+D:\1Cab 201\C to F\C to F\obj\Debug\C to F.exe
+D:\1Cab 201\C to F\C to F\obj\Debug\C to F.pdb
+G:\2017 sem 1\1Cab 201\C to F\C to F\bin\Debug\C to F.exe.config
+G:\2017 sem 1\1Cab 201\C to F\C to F\bin\Debug\C to F.exe
+G:\2017 sem 1\1Cab 201\C to F\C to F\bin\Debug\C to F.pdb
+G:\2017 sem 1\1Cab 201\C to F\C to F\obj\Debug\C to F.csprojResolveAssemblyReference.cache
+G:\2017 sem 1\1Cab 201\C to F\C to F\obj\Debug\C to F.csproj.CoreCompileInputs.cache
+G:\2017 sem 1\1Cab 201\C to F\C to F\obj\Debug\C to F.exe
+G:\2017 sem 1\1Cab 201\C to F\C to F\obj\Debug\C to F.pdb
